@@ -12,8 +12,7 @@
   "license": "ISC",
   "scripts": {
     "cy:run": "cypress run",
-    "cy:open": "cypress open",
-    "cy:tags": "cypress-tags run"
+    "cy:open": "cypress open"
   },
   "dependencies": {},
   "devDependencies": {
